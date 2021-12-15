@@ -1,0 +1,42 @@
+a{}
+a:hover{
+	color:red;
+}
+a:active{
+	color:green;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background:url(logged.jpg);
+	background-size: cover;
+	background-position: bottom:2;
+	font-family: sans-serif;
+}
+.bbc
+{
+	background-color: black;
+	color: black;
+	font-family: Arial,Helvetica,sans-srief;
+	border: 5px black solid;
+	border-style: dashed;
+	border-radius: 15px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-bottom:40px;
+	margin-right: 350px;
+	margin-left: 350px;
+}
+.bbc h1
+{
+background-color: beige;
+     font-weight: 500;
+     font-style: bold;
+     text-align: center;
+     color: green;
+     padding-top: 10px;
+     padding-left: 30px;
+     padding-bottom: 10px;
+     margin-right: 200px;
+     margin-left: 5px;	
+}

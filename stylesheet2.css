@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:url(registration1.jpg);
+	background-size: cover;
+	background-position: bottom:2;
+	font-family: sans-serif;
+}
+.registration1
+{
+	/*background-color:indigo;*/
+	color: white;
+	font-family: Arial,Helvetica,sans-srief;
+	border: 5px black solid;
+	border-style: dashed;
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	margin-right: 300px;
+	margin-left: 200px;
+}
+.registration1 h1
+{
+	background-color:red;
+	color: black;
+	border: 2px white solid;
+	border-style: bold;
+	text-align: center;
+	/*text-decoration: underline;*/
+	/*letter-spacing: 0.2em;*/
+	/*word-spacing: 1em;*/
+	padding-top: 5px;
+	padding-left:10px;
+    padding-bottom: 5px;
+    margin-right: 200px;
+    margin-left: 5px;    
+}
+.button
+{
+	background-color: skyblue;
+	color: blue;
+	padding: 10px 15px;
+	border:bold;
+	text-align: center;
+}

@@ -1,0 +1,45 @@
+a{}
+a:hover{
+	color:red;
+}
+a:active{
+	color:green;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background:url(login1.jpg);
+	background-size: cover;
+	background-position: bottom:2;
+	font-family: sans-serif;
+}
+.login1
+{
+	background-color: grey;
+	color: black;
+	font-family: Arial,Helvetica,sans-srief;
+	border: 5px black solid;
+	border-style: dashed;
+	border-radius: 15px;
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-bottom: 40px;
+	margin-right: 250px;
+	margin-left: 250px;
+}
+.login1 h1
+{
+background-color: white;
+     font-weight: 800;
+     font-style: bold;
+     text-align: center;
+     text-decoration: underline;
+     letter-spacing: 0.2em;
+     word-spacing: 1em;
+     color: black;
+     padding-top: 5px;
+     padding-left: 10px;
+     padding-bottom: 5px;
+     margin-right: 200px;
+     margin-left: 5px;	
+}
